@@ -1,2 +1,2 @@
-<h1 style="text-align: center;">Welcome!</h1>
-<p>As you can see, there isn't much here (okay, there's nothing here). That's because I'm a very new developer! As I flesh out my projects I'll add some information and stuff for them here.</p>
+# Welcome!
+As you can see, this place is empty. That is because I am a very new developer! I'll be expanding on and using this site as a flesh out some of my products, but for now, it's not very useful...
